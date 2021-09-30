@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.head{
+    font-size: xxx-large;
+    opacity: 36%;
+    font-weight: lighter;
+}
+.header1{
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.header2{
+    margin-top: 10%;
+    margin-left: 4px;
+}
+.header3{
+    margin-top: 12%;
+    margin-left: 150px;
+}
+.header4{
+    margin-top: 12%;
+    margin-left: 7px;
+}
+.anchor1{
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    opacity: 40%;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 22%;
+    margin-right: 32%;
+}
+.card{  
+    border: 1px solid red;    
+    border-radius: 10px;  
+    box-shadow: 5px 5px lightgray; 
+    height: 300px;   
+    width: 190px;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 22px;
+}
